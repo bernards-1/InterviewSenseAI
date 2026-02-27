@@ -52,7 +52,7 @@ Install Python Dependencies
 -Right-click inside the folder and select "Open in Terminal"
 (or open Command Prompt and type -: cd C:\xampp\htdocs\job)
 Install the required libraries
-   -enter: pip install -r scripts/requirements.txt
+-enter: pip install -r scripts/requirements.txt
 Start the AI Background Service
 -now the directory is C:\xampp\htdocs\job
 -enter cd scripts
